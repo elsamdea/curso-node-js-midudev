@@ -1,4 +1,4 @@
-import os from 'node:os'
+import os from 'node:os' // lo mismo que si importamos todos los módulos escritos
 
 console.log('Información del sistema operativo:')
 console.log('-------------------')

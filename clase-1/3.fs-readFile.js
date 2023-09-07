@@ -1,3 +1,4 @@
+// asincrona
 const fs = require('node:fs')
 
 console.log('Leyendo el primer archivo...')
